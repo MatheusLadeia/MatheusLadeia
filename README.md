@@ -24,6 +24,13 @@
 ![GitHub](https://img.shields.io/badge/GitHub-24292E?style=flat&logo=github&logoColor=white)
 
 ---
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/MatheusLadeia/MatheusLadeia/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/MatheusLadeia/MatheusLadeia/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/MatheusLadeia/MatheusLadeia/output/github-contribution-grid-snake.svg">
+</picture>
+
+---
 
 ## 📊 Estatísticas do GitHub
 ![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=MatheusLadeia&show_icons=true&theme=radical)
